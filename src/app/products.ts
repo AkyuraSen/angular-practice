@@ -1,17 +1,17 @@
 export const products = [
   {
-    name: 'Phone XL',
-    price: 799,
-    description: 'A large phone with one of the best screens'
+    name: 'Oblivion Feather',
+    price: 3400,
+    description: 'A feather that fell from the great wing of a Death Phoenix.'
   },
   {
-    name: 'Phone Mini',
-    price: 699,
-    description: 'A great phone with one of the best cameras'
+    name: 'Ouroboros Elixir',
+    price: 15000,
+    description: 'An elixir brewed from the belly acids of the World Serpent. Permanently increases all stats by 30.'
   },
   {
-    name: 'Phone Standard',
-    price: 299,
+    name: 'Olive Tree Branch',
+    price: 400,
     description: ''
   }
 ];
